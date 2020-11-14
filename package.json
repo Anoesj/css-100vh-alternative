@@ -1,0 +1,14 @@
+{
+  "name": "css-height-100vh-alternative",
+  "version": "1.0.0",
+  "description": "Demo of a better CSS-only alternative to height: 100vh",
+  "main": "index.js",
+  "scripts": {
+    "serve": "pnpx browser-sync"
+  },
+  "author": "Anoesj Sadraee",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.13"
+  }
+}
