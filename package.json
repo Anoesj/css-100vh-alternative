@@ -7,7 +7,7 @@
     "serve": "pnpx browser-sync"
   },
   "author": "Anoesj Sadraee",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.26.13"
   }
